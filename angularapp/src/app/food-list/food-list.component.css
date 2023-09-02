@@ -1,4 +1,4 @@
-.search-box {
+.searchBox {
     width: 50%;
     margin: 0 auto;
     text-align: center;
@@ -10,7 +10,7 @@
     display: block;
   }
   
-  .search-box label {
+  .searchBox label {
     margin-bottom: 5px;
   
   }
